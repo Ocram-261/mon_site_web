@@ -1,0 +1,10 @@
+* {
+	color: white;
+}
+
+#top-banner {
+	background: grey;
+	text-align: center;
+	
+	font-size: 2em;
+}
